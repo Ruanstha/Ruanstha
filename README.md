@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ruanstha
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Ruan Shrestha
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
